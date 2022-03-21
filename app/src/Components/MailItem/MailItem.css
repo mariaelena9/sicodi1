@@ -1,0 +1,26 @@
+p {
+  margin: 0 !important;
+}
+.item {
+  box-shadow: 0 1px 0 #000 inset;
+}
+.author {
+  width: fit-content;
+  font-weight: 700;
+}
+.subject {
+  font-weight: 600;
+}
+.status {
+  font-weight: 600;
+  color: red;
+}
+.contentM {
+  width: 90%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.imgStatus {
+  margin-left: 80%;
+}
