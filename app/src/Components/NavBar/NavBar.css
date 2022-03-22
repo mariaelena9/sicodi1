@@ -17,6 +17,7 @@ header {
 	align-items: center;
 	font-family: GothamRounded;
 	position: fixed;
+	z-index: 9;
 }
 
 .content {

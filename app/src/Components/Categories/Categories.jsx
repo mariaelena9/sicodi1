@@ -15,7 +15,6 @@ export default function Categories({ setSelectedButton, selectedMode }) {
 					clickOn(evt.target.value);
 				}}
 				aria-label='Principal'
-				style={{ zIndex: '-1' }}
 			>
 				<Button variant='info' value=''>
 					Todos

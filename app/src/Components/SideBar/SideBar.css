@@ -25,6 +25,7 @@
 	align-items: center;
 	position: fixed;
 	margin-top: 3rem;
+	z-index: 9;
 }
 
 .NavIcon {
